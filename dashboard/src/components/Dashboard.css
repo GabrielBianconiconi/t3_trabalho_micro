@@ -1,0 +1,31 @@
+/* frontend/src/components/Dashboard.css */
+
+.dashboard {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    transition: background 0.5s ease; /* Transição para o fundo */
+  }
+  
+  .controls {
+    margin: 20px 0;
+  }
+  
+  .controls button, .controls select {
+    padding: 10px 15px;
+    font-size: 1rem;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .controls button:hover, .controls select:hover {
+    opacity: 0.9;
+  }
+  
+  .chart-container {
+    width: 70%;
+    margin: 0 auto;
+  }
+  
