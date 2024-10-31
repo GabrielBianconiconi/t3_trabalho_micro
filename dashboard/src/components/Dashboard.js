@@ -13,7 +13,7 @@ function Dashboard() {
   const [selectedCountry, setSelectedCountry] = useState('Japan');
   const [error, setError] = useState(null);
 
-  const raspberryPiIP = process.env.REACT_APP_RASPBERRY_PI_IP || 'http://127.0.0.1:5000';
+  const raspberryPiIP = process.env.REACT_APP_RASPBERRY_PI_IP || 'http://10.33.161.138:5000';
   const weatherApiKey = process.env.REACT_APP_WEATHER_API_KEY;
 
   const countries = ['Japan', 'USA', 'Brazil', 'Canada', 'France', 'Germany', 'China', 'India', 'Russia', 'Australia'];
