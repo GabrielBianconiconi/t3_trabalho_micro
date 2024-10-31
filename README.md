@@ -18,20 +18,19 @@ Este projeto utiliza um Raspberry Pi 3B+ e um sensor DHT11 para monitorar a temp
 
 -1 Raspberry Pi 3 model B+
 
-3. Versão atual: **1.0**
 
-4. Análise de custo:
+3. Análise de custo:
 - Sensor DHT11 - 8,40 R$ (eletrogate)
 - Raspberry PI 3b+ - 379,90 R$
 
 
 **Total: R$ 388,49**
 
-5. Diagrama de Blocos
+4. Diagrama de Blocos
 
 ![Diagram de Blocos](https://github.com/GabrielBianconiconi/t3_trabalho_micro/blob/main/blocos.png)
    
-6. Video de Funcionanmento
+5. Video de Funcionanmento
 
 [![Assista ao vídeo](https://github.com/GabrielBianconiconi/t3_trabalho_micro/blob/main/foto.png)](https://drive.google.com/file/d/1qWj3M3hBXsBBR6lxDjXcTk5f31Z-YBw6/view?usp=sharing)
 
